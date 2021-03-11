@@ -1,0 +1,13 @@
+botbuilder-core==4.11.0
+asyncio==3.4.3
+# aiohttp==3.7.3
+aiohttp==3.6.2
+cookiecutter==1.7.2
+botbuilder-azure
+botbuilder-ai==4.11.0
+botbuilder-integration-aiohttp>=4.11.0
+botbuilder-dialogs>=4.11.0
+datatypes-date-time>=1.0.0.a2
+botbuilder-integration-aiohttp>=4.11.0
+
+nltk~=3.5
